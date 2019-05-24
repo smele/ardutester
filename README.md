@@ -10,9 +10,9 @@ ARDUTESTER v0.X 25/04/2013
  Original Software:           by Karl-Heinz Kuebbeler (kh_kuebbeler@web.de)
                               The Ardutester software is based on porting by Markus Reschke (madires@theca-tabellaria.de) 
  
- Schematic & Home Page:       http://www.pighixxx.com/lavori/ardutester/ 
+ Schematic & Home Page:       
  
- Arduino version:             PighiXXX (info@pighixxx.com)
-                              PaoloP (http://www.arduino.cc/forum/index.php?action=profile;u=58300)
+ Arduino version:             PighiXXX
+                              PaoloP 
  
  - ONLY TTL COMPONENTS!
