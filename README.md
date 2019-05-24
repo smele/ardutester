@@ -1,7 +1,8 @@
 # ardutester
-An ATmega328 µC Component Tester
 
-Based on work of ArduTester ver. 0.7f 
+#Work in progress...
+
+An ATmega328 µC Component Tester based on work of ArduTester ver. 0.7f 
 
 ARDUTESTER v0.X 25/04/2013
  
